@@ -1,3 +1,7 @@
-
+If asked:
 
 Why did revert cause conflict?
+
+Say:
+
+“Because the commit I was reverting added a file that was later modified. Git couldn’t decide whether to delete or keep it.”
