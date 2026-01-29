@@ -1,0 +1,7 @@
+Rebase Practice - 
+Create another branch feature/rebase-practice 
+- Make a change and commit 
+- Rebase the branch with main 
+- Resolve conflicts (if any) 
+- Push the branch 
+- Create a PR and merge it
